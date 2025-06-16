@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skuullking&label=Profile%20views&color=0e75b6&style=flat" alt="skuullking" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skuullking" alt="skuullking" /></a> </p>
-
 - 🌱 J'aprend constament des **langages, des frameworks etc...**
 
 - 👨‍💻 mon portfolio c’est [https://slimanimohamedyanis.vercel.app](https://slimanimohamedyanis.vercel.app)
